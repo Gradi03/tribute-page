@@ -1,0 +1,76 @@
+/* styles.css */
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  /* Main Container Styles */
+  #main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title Styles */
+  #title {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Image Container Styles */
+  #img-div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Image Styles */
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Image Caption Styles */
+  #img-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+  }
+  
+  /* Tribute Information Styles */
+  #tribute-info {
+    margin-top: 20px;
+    line-height: 1.6;
+  }
+  
+  /* Link Styles */
+  #tribute-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  #tribute-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* List Item Styles */
+  #tribute-info ul {
+    padding-left: 20px;
+  }
+  
+  /* Paragraph Styles */
+  #tribute-info p {
+    margin-bottom: 10px;
+  }
+  
+  
